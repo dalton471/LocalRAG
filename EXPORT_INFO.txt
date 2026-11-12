@@ -1,0 +1,4 @@
+FINAL PROJECT EXPORT
+Employee Advanced Hybrid RAG Assistant
+Two FastAPI retrieval services + Streamlit chatbot + Gemini
+Local Ollama embeddings + BM25 + Semantic Search + RRF

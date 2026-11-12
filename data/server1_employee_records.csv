@@ -1,0 +1,151 @@
+employee_id,name,designation,annual_salary_inr,joining_date,office_location,employment_status,record_ref
+EMP1000,Aarav Sharma,DevOps Engineer,514000,2020-12-09,Chennai,Active,REC0001
+EMP1001,Ananya Kapoor,Data Scientist,1154000,2020-11-24,Mumbai,Active,REC0002
+EMP1002,Vivaan Verma,Recruiter,832000,2020-01-03,Chennai,Active,REC0003
+EMP1003,Diya Iyer,Finance Manager,1016000,2020-09-07,Delhi,On Leave,REC0004
+EMP1004,Arjun Shah,Marketing Executive,859000,2024-05-26,Bengaluru,Active,REC0005
+EMP1005,Saanvi Das,Logistics Coordinator,832000,2022-05-05,Chennai,Active,REC0006
+EMP1006,Reyansh Mehta,System Administrator,494000,2023-02-12,Hyderabad,Active,REC0007
+EMP1007,Aadhya Kulkarni,Sales Executive,1147000,2023-09-04,Pune,Active,REC0008
+EMP1008,Aditya Joshi,DevOps Engineer,700000,2025-10-12,Mumbai,Active,REC0009
+EMP1009,Kiara Reddy,Data Analyst,471000,2020-11-08,Hyderabad,Active,REC0010
+EMP1010,Ishaan Pillai,HR Executive,1287000,2020-07-09,Pune,Active,REC0011
+EMP1011,Myra Menon,Accountant,779000,2022-04-22,Hyderabad,Active,REC0012
+EMP1012,Dhruv Patel,Marketing Manager,1050000,2021-09-24,Chennai,Active,REC0013
+EMP1013,Ira Gupta,Operations Manager,788000,2022-11-23,Mumbai,Active,REC0014
+EMP1014,Kabir Khan,Network Engineer,732000,2020-04-27,Bengaluru,Active,REC0015
+EMP1015,Riya Nair,Account Manager,674000,2020-04-19,Delhi,Active,REC0016
+EMP1016,Atharv Bhat,Software Engineer,1071000,2023-07-21,Pune,Active,REC0017
+EMP1017,Avni Mishra,ML Engineer,542000,2021-12-18,Mumbai,Active,REC0018
+EMP1018,Neil Rao,Recruiter,998000,2023-10-13,Hyderabad,Active,REC0019
+EMP1019,Tara Thomas,Accountant,921000,2023-02-25,Bengaluru,Active,REC0020
+EMP1020,Rohan Sharma,Marketing Executive,1042000,2021-11-14,Mumbai,Active,REC0021
+EMP1021,Meera Kapoor,Operations Manager,790000,2024-08-17,Hyderabad,Active,REC0022
+EMP1022,Karan Verma,Network Engineer,1138000,2020-11-18,Hyderabad,Active,REC0023
+EMP1023,Nisha Iyer,Sales Executive,700000,2023-03-15,Bengaluru,Active,REC0024
+EMP1024,Rahul Shah,DevOps Engineer,1180000,2021-09-04,Delhi,Active,REC0025
+EMP1025,Priya Das,Data Analyst,919000,2024-04-05,Hyderabad,Active,REC0026
+EMP1026,Varun Mehta,Recruiter,1376000,2024-01-20,Hyderabad,On Leave,REC0027
+EMP1027,Sneha Kulkarni,Accountant,514000,2022-05-08,Bengaluru,Active,REC0028
+EMP1028,Akash Joshi,Marketing Manager,1369000,2020-02-24,Pune,Active,REC0029
+EMP1029,Pooja Reddy,Logistics Coordinator,1184000,2021-03-22,Pune,Active,REC0030
+EMP1030,Aarav Pillai,IT Support Engineer,940000,2024-07-07,Mumbai,Active,REC0031
+EMP1031,Ananya Menon,Sales Manager,719000,2023-11-21,Hyderabad,On Leave,REC0032
+EMP1032,Vivaan Patel,DevOps Engineer,862000,2020-04-08,Bengaluru,Active,REC0033
+EMP1033,Diya Gupta,Data Scientist,1002000,2024-04-19,Chennai,Active,REC0034
+EMP1034,Arjun Khan,HR Executive,1124000,2025-01-08,Bengaluru,Active,REC0035
+EMP1035,Saanvi Nair,Financial Analyst,472000,2024-04-09,Delhi,On Leave,REC0036
+EMP1036,Reyansh Bhat,Marketing Executive,952000,2021-12-19,Mumbai,On Leave,REC0037
+EMP1037,Aadhya Mishra,Operations Executive,1203000,2023-07-07,Bengaluru,Active,REC0038
+EMP1038,Aditya Rao,Network Engineer,841000,2022-07-14,Pune,Active,REC0039
+EMP1039,Kiara Thomas,Sales Manager,1069000,2025-02-02,Pune,Active,REC0040
+EMP1040,Ishaan Sharma,Software Engineer,654000,2021-04-18,Pune,Active,REC0041
+EMP1041,Myra Kapoor,ML Engineer,587000,2022-08-08,Bengaluru,On Leave,REC0042
+EMP1042,Dhruv Verma,Recruiter,500000,2020-11-18,Bengaluru,Active,REC0043
+EMP1043,Ira Iyer,Accountant,570000,2023-08-16,Chennai,On Leave,REC0044
+EMP1044,Kabir Shah,Marketing Executive,568000,2023-01-13,Hyderabad,On Leave,REC0045
+EMP1045,Riya Das,Operations Manager,833000,2025-12-26,Mumbai,On Leave,REC0046
+EMP1046,Atharv Mehta,System Administrator,594000,2022-04-02,Mumbai,Active,REC0047
+EMP1047,Avni Kulkarni,Sales Manager,721000,2020-01-19,Pune,Active,REC0048
+EMP1048,Neil Joshi,Software Engineer,1383000,2024-02-06,Bengaluru,Active,REC0049
+EMP1049,Tara Reddy,Data Analyst,1282000,2021-07-04,Mumbai,Active,REC0050
+EMP1050,Rohan Pillai,Recruiter,1008000,2020-10-03,Pune,Active,REC0051
+EMP1051,Meera Menon,Financial Analyst,609000,2025-12-11,Chennai,Active,REC0052
+EMP1052,Karan Patel,SEO Specialist,534000,2025-11-10,Pune,Active,REC0053
+EMP1053,Nisha Gupta,Operations Executive,409000,2023-10-19,Bengaluru,Active,REC0054
+EMP1054,Rahul Khan,Network Engineer,618000,2024-05-05,Hyderabad,Active,REC0055
+EMP1055,Priya Nair,Sales Executive,778000,2022-03-15,Mumbai,Active,REC0056
+EMP1056,Varun Bhat,DevOps Engineer,1226000,2025-09-01,Delhi,Active,REC0057
+EMP1057,Sneha Mishra,Data Analyst,506000,2021-05-04,Bengaluru,Active,REC0058
+EMP1058,Akash Rao,HR Manager,688000,2024-04-23,Hyderabad,Active,REC0059
+EMP1059,Pooja Thomas,Finance Manager,1049000,2022-09-16,Hyderabad,Active,REC0060
+EMP1060,Aarav Sharma,Marketing Executive,1049000,2023-05-02,Bengaluru,Active,REC0061
+EMP1061,Ananya Kapoor,Operations Executive,1052000,2022-03-24,Pune,On Leave,REC0062
+EMP1062,Vivaan Verma,Network Engineer,409000,2020-02-23,Chennai,Active,REC0063
+EMP1063,Diya Iyer,Account Manager,996000,2024-03-14,Chennai,Active,REC0064
+EMP1064,Arjun Shah,Senior Software Engineer,773000,2020-06-07,Delhi,Active,REC0065
+EMP1065,Saanvi Das,Data Analyst,505000,2022-09-14,Mumbai,Active,REC0066
+EMP1066,Reyansh Mehta,HR Executive,1285000,2021-03-14,Bengaluru,Active,REC0067
+EMP1067,Aadhya Kulkarni,Finance Manager,1346000,2022-07-26,Delhi,Active,REC0068
+EMP1068,Aditya Joshi,SEO Specialist,563000,2025-02-13,Bengaluru,On Leave,REC0069
+EMP1069,Kiara Reddy,Operations Executive,604000,2023-06-10,Chennai,Active,REC0070
+EMP1070,Ishaan Pillai,System Administrator,1075000,2021-07-11,Hyderabad,Active,REC0071
+EMP1071,Myra Menon,Account Manager,759000,2025-09-13,Delhi,Active,REC0072
+EMP1072,Dhruv Patel,Software Engineer,518000,2022-03-19,Hyderabad,Active,REC0073
+EMP1073,Ira Gupta,Data Scientist,1010000,2023-06-24,Hyderabad,On Leave,REC0074
+EMP1074,Kabir Khan,Recruiter,923000,2020-07-19,Chennai,Active,REC0075
+EMP1075,Riya Nair,Accountant,1125000,2023-01-17,Mumbai,Active,REC0076
+EMP1076,Atharv Bhat,SEO Specialist,841000,2020-11-11,Mumbai,Active,REC0077
+EMP1077,Avni Mishra,Logistics Coordinator,1268000,2020-12-10,Mumbai,Active,REC0078
+EMP1078,Neil Rao,Network Engineer,818000,2022-07-23,Hyderabad,Active,REC0079
+EMP1079,Tara Thomas,Sales Executive,830000,2025-07-22,Delhi,Active,REC0080
+EMP1080,Rohan Sharma,DevOps Engineer,982000,2022-07-18,Bengaluru,Active,REC0081
+EMP1081,Meera Kapoor,ML Engineer,615000,2023-10-20,Delhi,Active,REC0082
+EMP1082,Karan Verma,HR Manager,852000,2023-11-07,Mumbai,On Leave,REC0083
+EMP1083,Nisha Iyer,Finance Manager,573000,2025-02-10,Mumbai,Active,REC0084
+EMP1084,Rahul Shah,Marketing Executive,1238000,2021-11-10,Chennai,Active,REC0085
+EMP1085,Priya Das,Operations Executive,425000,2020-04-16,Mumbai,Active,REC0086
+EMP1086,Varun Mehta,IT Support Engineer,824000,2025-10-07,Delhi,On Leave,REC0087
+EMP1087,Sneha Kulkarni,Account Manager,809000,2021-03-21,Delhi,Active,REC0088
+EMP1088,Akash Joshi,Software Engineer,1197000,2023-04-06,Delhi,On Leave,REC0089
+EMP1089,Pooja Reddy,Data Scientist,970000,2021-02-15,Chennai,On Leave,REC0090
+EMP1090,Aarav Pillai,Recruiter,943000,2024-10-11,Pune,On Leave,REC0091
+EMP1091,Ananya Menon,Finance Manager,856000,2021-12-16,Pune,Active,REC0092
+EMP1092,Vivaan Patel,Marketing Executive,1260000,2025-05-25,Mumbai,On Leave,REC0093
+EMP1093,Diya Gupta,Logistics Coordinator,644000,2022-08-03,Delhi,Active,REC0094
+EMP1094,Arjun Khan,System Administrator,678000,2022-06-18,Bengaluru,Active,REC0095
+EMP1095,Saanvi Nair,Sales Executive,636000,2023-12-05,Delhi,Active,REC0096
+EMP1096,Reyansh Bhat,Software Engineer,824000,2023-06-18,Pune,On Leave,REC0097
+EMP1097,Aadhya Mishra,Data Scientist,611000,2023-07-25,Mumbai,Active,REC0098
+EMP1098,Aditya Rao,Recruiter,789000,2023-01-12,Hyderabad,On Leave,REC0099
+EMP1099,Kiara Thomas,Financial Analyst,951000,2025-12-18,Mumbai,Active,REC0100
+EMP1100,Ishaan Sharma,SEO Specialist,624000,2022-07-16,Bengaluru,On Leave,REC0101
+EMP1101,Myra Kapoor,Operations Manager,1084000,2025-07-24,Chennai,On Leave,REC0102
+EMP1102,Dhruv Verma,System Administrator,1037000,2024-01-13,Mumbai,Active,REC0103
+EMP1103,Ira Iyer,Sales Executive,1058000,2023-03-15,Chennai,Active,REC0104
+EMP1104,Kabir Shah,Senior Software Engineer,788000,2022-04-15,Hyderabad,Active,REC0105
+EMP1105,Riya Das,ML Engineer,684000,2023-05-27,Bengaluru,On Leave,REC0106
+EMP1106,Atharv Mehta,HR Executive,1167000,2024-01-12,Chennai,Active,REC0107
+EMP1107,Avni Kulkarni,Finance Manager,441000,2020-04-07,Bengaluru,Active,REC0108
+EMP1108,Neil Joshi,Marketing Executive,529000,2023-11-04,Mumbai,Active,REC0109
+EMP1109,Tara Reddy,Operations Manager,1116000,2022-06-06,Mumbai,Active,REC0110
+EMP1110,Rohan Pillai,System Administrator,1387000,2022-02-19,Bengaluru,Active,REC0111
+EMP1111,Meera Menon,Sales Manager,1093000,2023-07-23,Chennai,Active,REC0112
+EMP1112,Karan Patel,DevOps Engineer,1107000,2025-04-04,Delhi,Active,REC0113
+EMP1113,Nisha Gupta,Data Analyst,1014000,2020-10-26,Bengaluru,Active,REC0114
+EMP1114,Rahul Khan,Recruiter,838000,2025-06-03,Mumbai,Active,REC0115
+EMP1115,Priya Nair,Accountant,1269000,2023-08-04,Pune,Active,REC0116
+EMP1116,Varun Bhat,Marketing Manager,1312000,2023-12-05,Pune,Active,REC0117
+EMP1117,Sneha Mishra,Logistics Coordinator,934000,2025-05-20,Mumbai,On Leave,REC0118
+EMP1118,Akash Rao,IT Support Engineer,846000,2025-10-09,Hyderabad,Active,REC0119
+EMP1119,Pooja Thomas,Sales Executive,685000,2023-04-25,Pune,On Leave,REC0120
+EMP1120,Aarav Sharma,Senior Software Engineer,429000,2023-06-06,Pune,Active,REC0121
+EMP1121,Ananya Kapoor,ML Engineer,1216000,2022-06-09,Mumbai,Active,REC0122
+EMP1122,Vivaan Verma,Recruiter,410000,2024-04-03,Chennai,On Leave,REC0123
+EMP1123,Diya Iyer,Financial Analyst,968000,2021-12-16,Delhi,On Leave,REC0124
+EMP1124,Arjun Shah,SEO Specialist,1211000,2020-02-10,Chennai,On Leave,REC0125
+EMP1125,Saanvi Das,Logistics Coordinator,649000,2022-11-19,Hyderabad,On Leave,REC0126
+EMP1126,Reyansh Mehta,Network Engineer,943000,2022-07-24,Mumbai,Active,REC0127
+EMP1127,Aadhya Kulkarni,Account Manager,1119000,2023-05-10,Hyderabad,Active,REC0128
+EMP1128,Aditya Joshi,Software Engineer,1138000,2021-06-04,Delhi,Active,REC0129
+EMP1129,Kiara Reddy,Data Scientist,621000,2025-08-09,Delhi,Active,REC0130
+EMP1130,Ishaan Pillai,HR Executive,1252000,2021-05-08,Hyderabad,Active,REC0131
+EMP1131,Myra Menon,Financial Analyst,414000,2025-09-05,Hyderabad,Active,REC0132
+EMP1132,Dhruv Patel,Marketing Executive,966000,2022-12-05,Delhi,On Leave,REC0133
+EMP1133,Ira Gupta,Operations Executive,1293000,2020-10-10,Pune,On Leave,REC0134
+EMP1134,Kabir Khan,IT Support Engineer,748000,2021-01-09,Pune,Active,REC0135
+EMP1135,Riya Nair,Sales Executive,810000,2023-02-19,Delhi,Active,REC0136
+EMP1136,Atharv Bhat,Software Engineer,552000,2024-05-03,Chennai,Active,REC0137
+EMP1137,Avni Mishra,Data Analyst,1182000,2023-10-20,Mumbai,Active,REC0138
+EMP1138,Neil Rao,Recruiter,789000,2023-08-10,Mumbai,On Leave,REC0139
+EMP1139,Tara Thomas,Financial Analyst,982000,2024-01-20,Delhi,Active,REC0140
+EMP1140,Rohan Sharma,Marketing Executive,1040000,2021-05-22,Bengaluru,Active,REC0141
+EMP1141,Meera Kapoor,Operations Executive,577000,2024-02-06,Bengaluru,On Leave,REC0142
+EMP1142,Karan Verma,IT Support Engineer,1105000,2024-08-10,Bengaluru,Active,REC0143
+EMP1143,Nisha Iyer,Account Manager,1123000,2022-12-15,Bengaluru,Active,REC0144
+EMP1144,Rahul Shah,Senior Software Engineer,1206000,2025-10-22,Chennai,On Leave,REC0145
+EMP1145,Priya Das,Data Scientist,957000,2021-11-05,Hyderabad,Active,REC0146
+EMP1146,Varun Mehta,HR Executive,461000,2021-05-20,Delhi,Active,REC0147
+EMP1147,Sneha Kulkarni,Financial Analyst,527000,2023-12-10,Delhi,On Leave,REC0148
+EMP1148,Akash Joshi,SEO Specialist,912000,2024-08-15,Bengaluru,Active,REC0149
+EMP1149,Pooja Reddy,Operations Manager,1152000,2022-10-09,Bengaluru,Active,REC0150
